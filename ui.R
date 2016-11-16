@@ -1,7 +1,7 @@
 ui <- fluidPage(
-  theme = "style.css",
+#  theme = "style.css",
   br(),
-  fluidRow(style="font-size:small",
+  fluidRow(style="font-size:x-small",
     
     column(2,style="background-color: #F2F2F2;",
       checkboxInput("dataOption","More Data Option",value = FALSE),
