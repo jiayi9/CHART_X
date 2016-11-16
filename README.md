@@ -11,7 +11,7 @@ Features include:
 
 4. Can highlight specific points for values of a certain column
 
-5. Can dexclude specific points from chart freely and interactively 
+5. Can exclude specific points from chart freely and interactively 
 
 6. Shows summary and test(ANOVA and K-sample AD test) information
 
