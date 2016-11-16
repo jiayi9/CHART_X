@@ -1,0 +1,7 @@
+th {   text-align: center;}
+
+.small_text{font-size:x-small}
+
+.selectize-dropdown, .selectize-input, .selectize-control{ 
+  height:20px;
+          }
