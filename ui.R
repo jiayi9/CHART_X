@@ -1,5 +1,5 @@
 ui <- fluidPage(
-#  theme = "style.css",
+  theme = "style.css",
   br(),
   fluidRow(style="font-size:small",
     
